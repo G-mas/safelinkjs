@@ -23,7 +23,7 @@ var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
 if(x=="1"){xxx="why-video-games-are-for-everyone.html"}
 if(x=="2"){xxx="is-gaming-becoming-sport-in-united.html"}
-if(x=="3"){xxx="benefits-of-playing-video-games.html"}
+if(x=="3"){xxx="7-benefits-of-playing-video-games.html"}
 if(x=="4"){xxx="how-to-become-unity-certified.html"}
 if(x=="5"){xxx="gaming-computers.html"}a_to_ve[i].href="https://www.id-safelink.xyz/2019/06/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
